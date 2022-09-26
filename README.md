@@ -1,4 +1,5 @@
 # SolveERS
+Desarrollada para la automatizacion de contestar la encuesta de regreso seguro implementada por algunas instituciones.
 
 ## Requeriments  
 Se requiere el webdriver de google chroome pueden usar el del siguiente link https://chromedriver.storage.googleapis.com/index.html?path=105.0.5195.52/  
